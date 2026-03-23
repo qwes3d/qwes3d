@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @qwes3d, 👋
-I'm a Computer Science student passionate about software development.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Anyalechi Chidiebere 👋
 
-<!---
-qwes3d/qwes3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Student  
+💻 Passionate about Software Development  
+🌱 Currently learning: JavaScript, Python  
+
+## 🛠 Skills
+- Python
+- Java
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+## 📂 Projects
+- Project 1: Description + link
+- Project 2: Description + link
+
+## 📫 Contact Me
+- LinkedIn: [your link]
+- Email: uratation@gmail.com 
