@@ -20,5 +20,8 @@
 - Project 2: Description + link
 
 ## 📫 Contact Me
-- LinkedIn: [your link]
-- Email: uratation@gmail.com 
+- LinkedIn:
+- Email: uratation@gmail.com
+
+## 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qwes3d&show_icons=true)
